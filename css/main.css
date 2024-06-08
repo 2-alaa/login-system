@@ -1,0 +1,50 @@
+.op{
+
+    background-image: url(../OIP.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.bg-bodys{
+
+    background-color:#24353F ;
+}
+h1{
+    color: #17A2B8;
+
+
+}
+
+
+.btn:hover{
+    background-color: #17A2B8;
+
+}
+
+
+
+.start {
+    align-self: flex-start;
+    margin-left: 5.625rem;
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .form-control:focus {
+    box-shadow: unset;
+    border-color: unset;
+  }
+  
+  .pointer {
+    cursor: pointer;
+  }
+  
+  .warning{
+    color: #ff0000;
+  }
+  
+  .success{
+    color: #008000;
+  }
+  
+  /* media */
